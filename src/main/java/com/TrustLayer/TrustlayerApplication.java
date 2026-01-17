@@ -1,13 +1,13 @@
-package com.TrustLayer;
+package com.trustlayer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TrustlayerApplication {
+public class TrustLayerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TrustlayerApplication.class, args);
+		SpringApplication.run(TrustLayerApplication.class, args);
 	}
 
 }
